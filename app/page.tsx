@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const logo = "/logo.png";
+const logo = "/20241013_112806.jpg";
 
 export default function Home() {
   return (
