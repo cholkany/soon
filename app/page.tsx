@@ -30,63 +30,44 @@ export default function Home() {
                 <div className="w-full md:w-1/3 px-4 mb-8">
                     <div className="rounded-md bg-white shadow-md p-8">
                         <div className="text-4xl font-bold text-rose-600 mb-4">01</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Home </h3>
+                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Home 🏠</h3>
                         <p className="text-gray-600 mb-4">Focus on welcoming visitors and introducing the purpose of the platform. Highlight its user-friendly interface, ease of navigation, and perhaps a brief mention of the key services or content available.</p>
                     </div>
                 </div>
                 <div className="w-full md:w-1/3 px-4 mb-8">
                     <div className="rounded-md bg-white shadow-md p-8">
                         <div className="text-4xl font-bold text-rose-600 mb-4">02</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">About</h3>
-                        <p className="text-gray-600 mb-4">Explain the mission, vision, and values of your platform. Share the story behind its creation, the team's dedication, and what sets your platform apart from others.</p>
+                        <h3 className="text-2xl font-bold mb-4 text-gray-600">About❓️</h3>
+                        <p className="text-gray-600 mb-4">Explain the mission, vision, and values of our services. Share the story behind its creation, the team's dedication, and what sets us apart from others.</p>
                     </div>
                 </div>
 
                 <div className="w-full md:w-1/3 px-4 mb-8">
                     <div className="rounded-md bg-white shadow-md p-8">
                         <div className="text-4xl font-bold text-rose-600 mb-4">03</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Services</h3>
-                        <p className="text-gray-600 mb-4">Detail the specific services or solutions your platform offers. Highlight the benefits users can expect, any unique features, and how your services can address their needs or challenges.</p>
+                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Services 🛠</h3>
+                        <p className="text-gray-600 mb-4">Detail the specific services or solutions we offers. Highlight the benefits users can expect, any unique features, and how our services can address their needs or challenges.</p>
                     </div>
                 </div>
-
                 <div className="w-full md:w-1/3 px-4 mb-8">
                     <div className="rounded-md bg-white shadow-md p-8">
-                        <div className="text-4xl font-bold text-rose-600 mb-4">04</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Membership</h3>
-                        <p className="text-gray-600 mb-4">Emphasize the perks and privileges of becoming a member. Highlight exclusive content, access to special events or resources, and any discounts or rewards members receive.</p>
+                        <div className="text-4xl font-bold text-rose-600 mb-4">05🏆</div>
+                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Case Studies and Projects</h3>
+                        <p>Immerse your self into our creative works, with detailed step-by-step executions, thought leadership and outcomes of our work to clients. </p>
                     </div>
                 </div>
-
-                <div className="w-full md:w-1/3 px-4 mb-8">
-                    <div className="rounded-md bg-white shadow-md p-8">
-                        <div className="text-4xl font-bold text-rose-600 mb-4">05</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Events</h3>
-                        <p className="text-gray-600 mb-4">Showcase upcoming events, workshops, or webinars hosted on your platform. Highlight the value of attending these events, any notable speakers or topics, and how they can benefit users.</p>
-                    </div>
-                </div>
-
                 <div className="w-full md:w-1/3 px-4 mb-8">
                     <div className="rounded-md bg-white shadow-md p-8">
                         <div className="text-4xl font-bold text-rose-600 mb-4">06</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Media Center</h3>
-                        <p className="text-gray-600 mb-4"> Present a hub for multimedia content such as videos, podcasts, or downloadable resources. Highlight the diverse range of content available, its relevance to users, and how it can enhance their experience.</p>
+                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Contact ☎️</h3>
+                        <p className="text-gray-600 mb-4">Provide multiple channels for users to get in touch with your team. Assure them of prompt support, responsiveness, and personalized assistance with any inquiries or issues they may have.</p>
                     </div>
                 </div>
-
-                <div className="w-full md:w-1/3 px-4 mb-8">
+              <div className="w-full md:w-1/3 px-4 mb-8">
                     <div className="rounded-md bg-white shadow-md p-8">
                         <div className="text-4xl font-bold text-rose-600 mb-4">07</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Resources</h3>
-                        <p className="text-gray-600 mb-4">Offer valuable resources such as articles, guides, templates, or tools. Highlight the practicality, relevance, and usefulness of these resources in helping users achieve their goals or solve their problems.</p>
-                    </div>
-                </div>
-
-                <div className="w-full md:w-1/3 px-4 mb-8">
-                    <div className="rounded-md bg-white shadow-md p-8">
-                        <div className="text-4xl font-bold text-rose-600 mb-4">08</div>
-                        <h3 className="text-2xl font-bold mb-4 text-gray-600">Contact</h3>
-                        <p className="text-gray-600 mb-4">Provide multiple channels for users to get in touch with your team. Assure them of prompt support, responsiveness, and personalized assistance with any inquiries or issues they may have.</p>
+                        <h3 className="text-2xl font-bold mb-4 text-gray-600">And More 🧱</h3>
+                        <p className="text-gray-600 mb-4">We are bringing you a one-stop place to connect you withthe Eyenu home 🥳.</p>
                     </div>
                 </div>
             </div>
